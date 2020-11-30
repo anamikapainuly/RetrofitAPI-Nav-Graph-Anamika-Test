@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">anamika-test</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="search">Search</string>
+    <string name="_25_0_c">25.0°C</string>
+    <string name="clouds_sunshine">Clouds/ Sunshine</string>
+    <string name="min_24_2_c_max_25_5_c">Min: 24.2°C, Max: 25.5°C</string>
+    <string name="date_22_aug_2020">Date: 22 Aug, 2020.</string>
+    <string name="city">City</string>
+</resources>
